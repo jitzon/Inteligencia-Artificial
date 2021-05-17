@@ -1,0 +1,13 @@
+Jitzon Aldahir Méndez González carne: 7690-17-8955
+
+1. El programa JitzonProyecto.py debe de ser ejecutado en Spyder
+
+2. para poder ejecutar el programa deben de instalar la libreria graphviz
+
+librerias>
+
+pip install graphviz
+
+3. Los datos de los recorridos van en el archivo recorridoA
+
+Nota: al ejecutar el programa automaticamente abrira una ventana del navegador para mostrar en pdf el resultado en la carpeta Resultados se guardan de forma automatica los pdf generados. 
